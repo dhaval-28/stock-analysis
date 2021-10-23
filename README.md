@@ -1,5 +1,5 @@
 # Module 2- VBA - All Stock Analysis
-Link to the main file is available here: [Module-2 VBA Challenge - Stock Analysis File](/stock-analysis/VBA_Challenge.xlsm)
+Link to the main file is available here: [Module-2 VBA Challenge - Stock Analysis File](stock-analysis/VBA_Challenge.xlsm)
 
 ## Overview of Project
 ### Purpose
@@ -77,6 +77,6 @@ The run time for macro went down significantly. The original code took around 0.
 
 Below are the screenshots which show the run time for 2017 & 2018 analysis.
 
-![2017 Screenshot](/stock-analysis/VBA_Challenge_2017.PNG)
+![2017 Screenshot](stock-analysis/VBA_Challenge_2017.PNG)
 
-![2018 Screenshot](/stock-analysis/VBA_Challenge_2018.PNG)
+![2018 Screenshot](stock-analysis/VBA_Challenge_2018.PNG)
