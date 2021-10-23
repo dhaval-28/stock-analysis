@@ -73,7 +73,7 @@ The main purpose of this project was to refactor a VBA code that was already cre
 •	4.Easier to maintain and increase scalability
 
 ### The Advantages of Refactoring Stock Analysis
-The run time for macro went down significantly. The original code took around 0.93 seconds and 0.98 seconds for 2017 and 2018 respectively. While after refactoring, it went down to 0.17 and 0.18 seconds for 2017 and 2018 respectively. 
+The run time for macro went down significantly. The original code took around 0.93 seconds and 0.98 seconds for 2017 and 2018 respectively. While after refactoring, it went down to  0.1875 seconds for both 2017 and 2018. 
 
 Below are the screenshots which show the run time for 2017 & 2018 analysis.
 
