@@ -67,10 +67,10 @@ The main purpose of this project was to refactor a VBA code that was already cre
 
 ## Summary
 ### Advantages and disadvantages of refactoring code in general
-•	1.Simplified support and code updates. Clean code is much easier to debug and update.
-•	2.Reduced complexity for easier to understand and read by other users. 
-•	3.Saved time and money in the future.
-•	4.Easier to maintain and increase scalability
+•	1.Simplifying support and code updates. Clean code is much easier to debug and update.
+•	2.Easier to understand and read by other users. 
+•	3.Save time and money in the future.
+•	4.Easier to maintain and increase scalability.
 
 ### The Advantages of Refactoring Stock Analysis
 The run time for macro went down significantly. The original code took around 0.93 seconds and 0.98 seconds for 2017 and 2018 respectively. While after refactoring, it went down to  0.1875 seconds for both 2017 and 2018. 
